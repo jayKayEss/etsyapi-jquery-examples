@@ -1,0 +1,6 @@
+For this page to work, you'll need to replace "enter_your_api_key_here" with your production Etsy API key.
+
+To use this demo with a *sandbox* api key, edit the variable etsyUrl:
+
+etsyURL = "http://openapi.etsy.com/v2/sandbox/public/listings/active.js?keywords=" ...etc...
+
